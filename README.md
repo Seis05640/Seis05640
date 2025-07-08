@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm SRIRAM R (Seis05640)
+
+🎓 **Student @ B.Tech AI & Data Science**  
+💻 Web Developer | Data Scientist  
+🌍 Coimbatore, India
+
+---
+
+## 🚀 Featured Projects
+
+- **[Magisk WSA](https://github.com/Seis05640/magisk-wsa)**  
+  Bringing root (Magisk) to Windows Subsystem for Android—unlock customizations, modules, and more for Android on Windows!
+
+---
+
+## 🐍 Python Passion
+
+I love Python for its versatility, simplicity, and power in web development & data science.  
+*From automating tasks to building intelligent apps—Python is my go-to toolkit!*
+
+---
+
+## 🌐 Connect with Me
+
+- [GitHub](https://github.com/Seis05640)
+- [Twitter / X](https://twitter.com/Sriram89636664)
+- 📧 seis05640@gmail.com
+
+---
+
+## 💡 Fun Fact
+
+> Did you know? Honey never spoils—archaeologists have found edible honey in ancient Egyptian tombs!
+
+---
+
+## ✨ Favorite Quote
+
+> "The best way to predict the future is to invent it."  
+> — Alan Kay
+
+---
 
 <!--
-**Seis05640/Seis05640** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Minimal, creative, and always learning.
 -->
