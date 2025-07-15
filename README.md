@@ -52,11 +52,13 @@
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 
-- [GitHub](https://github.com/Seis05640)
-- [Twitter/X](https://twitter.com/Sriram89636664)
-- 📧 seis05640@gmail.com
+[![GitHub](https://img.shields.io/badge/GitHub-Seis05640-181717?logo=github&style=for-the-badge)](https://github.com/Seis05640)
+[![Twitter/X](https://img.shields.io/badge/Twitter-@Sriram89636664-1DA1F2?logo=x&logoColor=white&style=for-the-badge)](https://twitter.com/Sriram89636664)
+[![Email](https://img.shields.io/badge/Email-seis05640@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:seis05640@gmail.com)
+
+**Let’s connect for collaboration, tech chats, or just to say hello!**
 
 ---
 
