@@ -72,4 +72,4 @@
 
 <!-- Minimal, creative, and always learning! -->
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/Seis05640/Seis05640/output/github-contribution-grid-dark-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Seis05640/Seis05640/output/github-contribution-grid-snake-dark.svg)
