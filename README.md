@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://github.com/Seis05640/Seis05640/blob/main/github-header-image.jpg" alt="Header Image"/>
 </p>
-<h1 align="center">Hi 👋, I'm SRIRAM R</h1>
 <h3 align="center">AI & Data Science | Developer | Python Enthusiast</h3>
 
 <p align="center">
