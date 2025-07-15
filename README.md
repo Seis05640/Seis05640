@@ -1,4 +1,4 @@
-<!-- Banner or profile GIF can go here if you want! -->
+![Header Image]([https://link-to-your-image.com/header.jpg](https://github.com/Seis05640/Seis05640/blob/main/github-header-image.png))
 <h1 align="center">Hi 👋, I'm SRIRAM R</h1>
 <h3 align="center">AI & Data Science | Developer | Python Enthusiast</h3>
 
